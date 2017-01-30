@@ -1,0 +1,15 @@
+{
+  "name": "whfoods-bot",
+  "version": "1.0.0",
+  "description": "a bot-miner of healthy food knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mkdir test"
+  },
+  "author": "rra at wizards dot ninja",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0"
+  }
+}
